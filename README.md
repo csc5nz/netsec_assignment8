@@ -1,5 +1,9 @@
 # Week 8 Assignment  
 
+[![Walkthrough](https://i.imgur.com/lkF0K1h.gifv)](https://i.imgur.com/lkF0K1h.gifv)
+
+
+
 ### Blue
 1.Session Hijacking:
  I loged in on one window and use developer tools to copy the session id. In another window, I  useed the tool provided to change session id to the one copied from victim.	
